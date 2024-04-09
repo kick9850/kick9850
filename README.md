@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00c.svg?style=for-the-badge&logo=Tensorflow&logoColor=yellow" />&nbsp
+  <img src="https://img.shields.io/badge/Tensorflow-E60012.svg?style=for-the-badge&logo=Tensorflow&logoColor=yellow" />&nbsp
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kick9850&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />

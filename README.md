@@ -1,25 +1,57 @@
-
-![header](https://capsule-render.vercel.app/api?type=Venom&text=RL_is_Fun)
-
-####  :wave: Welcome my github profile !
-<br/>
-<br/>
 <div align="center">
 
-####  :clipboard: Once I've Used 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Kim%20JungHyun&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Reinforcement%20Learning%20%7C%20Cyber%20Range%20%7C%20Unreal%20Engine&descAlignY=58&descSize=17)
+
+### 👋 Hi, I'm Kim JungHyun
+
+**Reinforcement Learning · Multi-Agent Systems · Cyber Range Simulation · Unreal Engine**
+
 </div>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kick9850&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&include_all_commits=true&exclude_repo=Drone_img_detection" width=100% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kick9850&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&include_all_commits=true&count_private=true" width=100% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kick9850&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+
+---
+
+## 🧠 About Me
+
+- 🎓 Interested in **Reinforcement Learning**, **Multi-Agent RL**, and **Cybersecurity Simulation**
+- 🕹️ Building simulation environments with **Unreal Engine**
+- 🤖 Exploring **RL + LLM-based agents**
+- 🔬 Research interests: **CTDE**, **MARL**, **Cyber Defense**, **Domain Generalization**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C- A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### AI / RL
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-000000?style=for-the-badge&logo=openaigym&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-111827?style=for-the-badge)
+
+### Simulation / Engine
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge)
+
+### Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Main Interests
+
+```text
+Reinforcement Learning
+├── PPO / DQN / SAC / TD3
+├── Multi-Agent Reinforcement Learning
+├── CTDE Architecture
+└── RL + LLM Hybrid Agents
+
+Cyber Range Simulation
+├── Unreal Engine Visualization
+├── ZeroMQ-based Communication
+├── Network State Rendering
+└── Attacker / Defender Agent Simulation
